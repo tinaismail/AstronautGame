@@ -1,0 +1,82 @@
+
+Astronaut.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+idle1
+  rotate: false
+  xy: 1, 133
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+idle2
+  rotate: false
+  xy: 1, 67
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+idle3
+  rotate: false
+  xy: 35, 133
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk1
+  rotate: false
+  xy: 1, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk8
+  rotate: false
+  xy: 1, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk2
+  rotate: false
+  xy: 35, 67
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk3
+  rotate: false
+  xy: 69, 133
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk7
+  rotate: false
+  xy: 69, 133
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk4
+  rotate: false
+  xy: 35, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk5
+  rotate: false
+  xy: 69, 67
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+walk6
+  rotate: false
+  xy: 69, 1
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
